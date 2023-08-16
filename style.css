@@ -1,0 +1,32 @@
+#nome {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body{
+    background-color: 4C8577;
+}
+
+.header-container div{
+    display: inline-block;
+}
+
+.header-description{
+    width: 50%;
+    margin-left: 20px;
+}
+
+.header-photo{
+    width: 30%;
+    margin-left: 30px;
+    background-color: black;
+    padding-left: 30px;
+}
+
+.head-skills li:nth-child(odd){
+    color: white;
+}
+
+
